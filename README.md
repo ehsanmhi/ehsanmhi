@@ -8,6 +8,3 @@
 ehsanmhi/ehsanmhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-im also a civi engineer 
-#im study at state university
-and a customer service of apple(software)
